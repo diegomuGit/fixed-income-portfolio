@@ -7,7 +7,7 @@
 Práctica del **Taller de Renta Fija del máster mIAx**: análisis de un universo de **2.255 bonos corporativos en EUR**,
 valoración sobre la curva **€STR**, construcción de una cartera bajo mandato y cobertura de sus riesgos de tipos y de crédito.
 
-**🔗 Dashboard interactivo:** _URL de Railway — ver [Despliegue](#-despliegue-en-railway)_
+**🔗 Dashboard interactivo:** <https://fixed-income-portfolio-production.up.railway.app>
 
 **Autores:** Diego Muñoz · Javi Chulvi · Luis Coello
 
